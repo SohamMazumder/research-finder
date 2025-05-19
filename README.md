@@ -4,7 +4,7 @@ A modern web application for finding and exploring research papers from arXiv an
 
 > 🎯 **Built with Cursor IDE and Sing Vibe Coding**
 > 
-> This project was developed using Cursor IDE and Sing Vibe coding methodology, demonstrating how modern AI-assisted development tools can help create complex applications without prior knowledge of the underlying technologies. No prior experience with Next.js or TypeScript was required to build this application.
+> This project was developed using Cursor IDE employing **Vibe Coding**, demonstrating how modern AI-assisted development tools can help create complex applications without prior knowledge of the underlying technologies. No prior experience with Next.js or TypeScript was required to build this application.
 
 ## Features
 
