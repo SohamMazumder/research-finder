@@ -2,6 +2,10 @@
 
 A modern web application for finding and exploring research papers from arXiv and Semantic Scholar. Built with Next.js and TypeScript.
 
+> 🎯 **Built with Cursor IDE and Sing Vibe Coding**
+> 
+> This project was developed using Cursor IDE and Sing Vibe coding methodology, demonstrating how modern AI-assisted development tools can help create complex applications without prior knowledge of the underlying technologies. No prior experience with Next.js or TypeScript was required to build this application.
+
 ## Features
 
 - 🔍 Search papers by keywords
@@ -19,6 +23,8 @@ A modern web application for finding and exploring research papers from arXiv an
 - Tailwind CSS
 - Semantic Scholar API
 - arXiv API
+- Cursor IDE
+- Sing Vibe Coding Methodology
 
 ## Getting Started
 
@@ -46,6 +52,14 @@ npm run dev
 - **Citation Search**: Enter an arXiv paper URL or ID to find papers that cite it
 - Click on any paper to view its full abstract
 - Use the provided links to view papers on arXiv or Google Scholar
+
+## Development Notes
+
+This project showcases the power of modern AI-assisted development:
+- Built entirely using Cursor IDE
+- Developed following Sing Vibe coding methodology
+- Created without prior knowledge of Next.js or TypeScript
+- Demonstrates how AI can help bridge the gap between idea and implementation
 
 ## License
 
